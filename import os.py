@@ -22,7 +22,7 @@ smtp_port = 587
 smtp_server = "smtp.gmail.com"
 email_from = "rohitbarik194@gmail.com"
 email_list = ["rohitbarik48@gmail.com"]
-pswd = "czwa yqst xhjl xdzl"
+pswd = "fzbo szkt fwdf eaqe"
 subject = "Attachments"
 
 def take_screenshot(folder, filename):
